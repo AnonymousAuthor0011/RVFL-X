@@ -1,0 +1,1 @@
+Cite the paper as: M. Sajid, Mushir Akhtar, A. Quadir, M. Tanveer (2025), RVFL-X: A Novel Randomized Network Based on Complex Transformed Real-Valued Tabular Datasets in "International Joint Conference on Neural Networks 2025"
